@@ -1,0 +1,22 @@
+{
+  "pool_notas": [
+    {
+      "id": 1,
+      "titulo": "Optimización y Rendimiento Web en Dispositivos Móviles",
+      "contenido_1": "<p>La velocidad de carga es un factor crucial para mejorar la retención de usuarios en sitios web modernos. Implementar estrategias de almacenamiento en caché y optimización de recursos permite reducir los tiempos de respuesta de manera considerable.</p>",
+      "contenido_2": "<p>Al reducir el peso de las imágenes y minificar los archivos JavaScript y CSS, se logra una navegación mucho más fluida. Esto resulta en una mejor experiencia general para los usuarios que acceden desde redes móviles.</p>"
+    },
+    {
+      "id": 2,
+      "titulo": "Nuevas Tendencias en el Desarrollo Web Front-End",
+      "contenido_1": "<p>El ecosistema del desarrollo web evoluciona rápidamente con nuevas herramientas y frameworks diseñados para mejorar la productividad. El uso de arquitecturas ligeras ayuda a mantener proyectos escalables y fáciles de mantener.</p>",
+      "contenido_2": "<p>Aprender las mejores prácticas de maquetación responsive y accesibilidad web asegura que la interfaz sea funcional en cualquier tipo de pantalla o pantalla de dispositivo móvil.</p>"
+    },
+    {
+      "id": 3,
+      "titulo": "Importancia de la Seguridad en el Manejo de Datos",
+      "contenido_1": "<p>Proteger la información sensible mediante buenas prácticas de codificación es esencial para prevenir vulnerabilidades. La implementación de conexiones seguras y cifrado protege tanto al usuario como a la infraestructura.</p>",
+      "contenido_2": "<p>Mantener las dependencias actualizadas y realizar auditorías periódicas de código ayuda a identificar posibles fallos antes de que afecten el rendimiento o la privacidad del sitio.</p>"
+    }
+  ]
+}
